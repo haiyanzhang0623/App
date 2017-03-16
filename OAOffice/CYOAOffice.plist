@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://58.116.151.5:8088/ipaWeb/OAOffice/icon_512_oaoffice.png</string>
+					<string>http://192.168.30.115:8080/apps/OAOffice/icon_512_oaoffice.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
