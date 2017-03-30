@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.bjmf.DskEduRemoteVideoPush</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>北京教育学院朝阳分院</string>
+				<string>灯市口小学</string>
 				<key>title</key>
-				<string>自动化办公系统</string>
+				<string>远程教学</string>
 			</dict>
 		</dict>
 	</array>
