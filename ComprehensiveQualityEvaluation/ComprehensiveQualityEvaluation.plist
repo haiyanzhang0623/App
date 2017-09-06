@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.30.115:8080/apps/DskEduPush/DskRemoteVideoPush.ipa</string>
+					<string>http://58.116.151.5:8088/ipaWeb/OAOffice/OAOffice.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.115:8080/apps/DskEduPush/icon_57_dskedupush.png</string>
+					<string>http://58.116.151.5:8088/ipaWeb/OAOffice/icon_57_oaoffice.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.115:8080/apps/DskEduPush/icon_512_dskedupush.png</string>
+					<string>http://58.116.151.5:8088/ipaWeb/OAOffice/icon_512_oaoffice.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bjmf.DskEduRemoteVideoPush</string>
+				<string>com.bjmf.ComprehensiveQualityEvaluation</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>北京教育学院朝阳分院</string>
+				<string>黑芝麻胡同小学</string>
 				<key>title</key>
-				<string>自动化办公系统</string>
+				<string>综合素质评价</string>
 			</dict>
 		</dict>
 	</array>
