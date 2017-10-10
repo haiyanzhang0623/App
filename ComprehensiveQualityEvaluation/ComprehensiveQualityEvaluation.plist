@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.95.142.79:8080/IpaWeb/ComprehensiveQualityEvaluation/ComprehensiveQualityEvaluation.ipa</string>
+					<string>http://123.56.200.93:82/IpaWeb/ComprehensiveQualityEvaluation/ComprehensiveQualityEvaluation.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.95.142.79:8080/IpaWeb/ComprehensiveQualityEvaluation/icon_57_evaluation.png</string>
+					<string>http://123.56.200.93:82/IpaWeb/ComprehensiveQualityEvaluation/icon_57_evaluation.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.95.142.79:8080/IpaWeb/ComprehensiveQualityEvaluation/icon_512_evaluation.png</string>
+					<string>http://123.56.200.93:82/IpaWeb/ComprehensiveQualityEvaluation/icon_512_evaluation.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.bjmf.ComprehensiveQualityEvaluation</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>黑芝麻胡同小学</string>
 				<key>title</key>
-				<string>综合素质评价</string>
+				<string>小芝麻成长记</string>
 			</dict>
 		</dict>
 	</array>
