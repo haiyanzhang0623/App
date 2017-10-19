@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.30.117:8080/DSKIpaWeb/NewEducationServicePlatform/NewEducationServicePlatform.ipa</string>
+					<string>http://192.168.30.117:8080/IpaWeb/NewDskEducationServicePlatform/NewDskEducationServicePlatform.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.117:8080/DSKIpaWeb/NewEducationServicePlatform/icon_57_eduplatform.png</string>
+					<string>http://192.168.30.117:8080/IpaWeb/NewDskEducationServicePlatform/icon_57_eduplatform.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.117:8080/DSKIpaWeb/NewEducationServicePlatform/icon_512_eduplatform.png</string>
+					<string>http://192.168.30.117:8080/IpaWeb/NewDskEducationServicePlatform/icon_512_eduplatform.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bjmf.NewEducationServicePlatform</string>
+				<string>com.bjmf.NewDskEducationServicePlatform</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
